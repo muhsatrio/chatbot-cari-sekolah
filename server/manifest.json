@@ -1,0 +1,184 @@
+{
+    "sekolah": [
+        {
+            "kecamatan": "andir",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/71c10e8e-0943-4d0e-b65b-4ea70e9aed25",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/71c10e8e-0943-4d0e-b65b-4ea70e9aed25",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/fbfb72ec-4cd7-4b27-8a67-7e1dd33100a6"
+        },
+        {
+            "kecamatan": "astana-anyar",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/04589ae4-8e15-44cd-b094-aa62b76cab75",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/c3f9ce76-c13b-4f5e-80ff-619d65833697",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/7664268e-6a6e-4c72-b641-5b029d855cc7"
+        },
+        {
+            "kecamatan": "antapani",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/735e9f80-44d1-4368-897b-f5019fb9880b",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/fb2f186b-9a78-4805-8583-a7df2ec0bd5a",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/4e6b7602-bedf-4439-a12c-7a68cbbc427b"
+        },
+        {
+            "kecamatan": "arcamanik",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/ffe07256-3f1b-41ed-aac5-e0dd4c738679",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/7882f5e6-28ce-446a-acca-5f8a63194459",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/9c80612c-fdb4-467e-a9e1-8f8ff93481af"
+        },
+        {
+            "kecamatan": "babakan-ciparay",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/c7d185bc-278e-49b5-a778-ac060895000a",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/b03dd8db-58b2-49c8-b707-60e26f7d2cd3",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/a401b678-0ccd-4619-9a2a-e4736a415292"
+        },
+        {
+            "kecamatan": "bandung-kidul",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/f6b57945-934b-4a13-9db2-4b4e850da5a0",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/21b7712e-6766-4cc0-854b-672b45460007",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/8c650d5b-f570-4f9b-805e-0cda5cc47a0d"
+        },
+        {
+            "kecamatan": "bandung-kulon",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/3899627b-b6e4-49b1-81b8-4aed4e05b4fd",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/810d1c49-097a-4f9b-886b-3019229786c8",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/413bd31a-7fba-419b-8a34-ba84700382cf"
+        },
+        {
+            "kecamatan": "bandung-wetan",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/26534d3a-06a8-4a66-8c36-0bbe4e5b0634",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/d0cac27d-d17f-403f-9dab-2ce3af822dbf",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/df9e3ed7-f0e9-40ec-b03d-a7b8496f3a83"
+        },
+        {
+            "kecamatan": "batununggal",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/f84db2fe-9340-49cf-b541-c51b1cf3111e",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/da856fa2-ae3e-4f3f-a440-326a62b102af",
+            "sma": ""
+        },
+        {
+            "kecamatan": "bojongloa-kaler",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/8c0e3dd9-2903-4fa2-9b04-69eb29da177e",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/174d92aa-8ab2-4e97-a63c-54db6f0130a7",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/b840483a-4686-4498-ad53-4f8286552d94"
+        },
+        {
+            "kecamatan": "bojongloa-kidul",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/9c17c8a4-53d7-4848-a2e4-214b7ac45576",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/20cde758-404c-4df1-b113-dc9ae6d59e9f",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/a345c39c-0ac3-4762-b37c-a113b5780d24"
+        },
+        {
+            "kecamatan": "buahbatu",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/6deef304-547d-442b-9d40-d4e0cf85706b",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/adcd1f88-4935-4f01-bd8d-e92656da8690",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/fc47d663-1425-4a03-815e-4ec2301828f6"
+        },
+        {
+            "kecamatan": "cibeunying-kaler",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/864356b6-ec53-46b0-8b09-d475d42bbf87",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/9ad843c4-eb0b-452a-afe5-d98105f40e69",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/6dd6af26-9d46-4429-8609-a10f7bfff424"
+        },
+        {
+            "kecamatan": "cibeunying-kidul",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/b5daeae8-7926-4423-8aef-874184ed0ba4",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/b56df3ec-1a27-416f-9eb2-b3cdee2ae224",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/b5963282-1875-40c5-b426-734f4ae3c2d3"
+        },
+        {
+            "kecamatan": "cibiru",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/d1114215-54e9-4519-9569-f3cfef9f6c23",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/c33037c0-ee98-4bfa-a321-d00c74803abe",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/5af698b1-a98f-4e25-99a8-9c6d4b664437"
+        },
+        {
+            "kecamatan": "cicendo",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/f3bc7d63-0946-4529-93f8-200547234eec",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/756eda38-7012-4269-97c5-8092947cf845",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/eed62490-1b41-4149-92ea-1f8310685088"
+        },
+        {
+            "kecamatan": "cidadap",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/42d80b8d-3042-4daa-aec5-8f0e3e6789b8",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/a763c753-7c76-4207-93a3-12772140b9fe",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/27fcf223-8f4e-436a-8932-23ab26c61cff"
+        },
+        {
+            "kecamatan": "cinambo",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/6ee40e37-b744-4ca3-bef3-b71af0399687",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/d232e680-946e-4eb2-a545-199edce594ea",
+            "sma": ""
+        },
+        {
+            "kecamatan": "coblong",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/fd30ea89-ec36-4b94-8616-eba522377250",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/72a2e66e-c7ed-4137-b7ff-1e50d2ed30a7",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/a0b4e022-e9b6-4045-8cf9-9db9ce813e5c"
+        },
+        {
+            "kecamatan": "gedebage",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/22101235-20ca-4d85-85b8-d7f21be17b86",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/2005424f-e831-40c7-984c-5d45a0dbf310",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/ca4fa99c-8acd-47eb-b186-03f290ac3092"
+        },
+        {
+            "kecamatan": "kiaracondong",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/1307a4c4-0528-4856-81fb-fe815584fda6",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/a85e60ad-28a9-4250-9f51-97551c6d86ae",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/97549edc-28d4-4248-aa96-ca60c1e36616"
+        },
+        {
+            "kecamatan": "lengkong",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/d94e340b-51fa-4c77-a112-f044a76ea7f8",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/f4321006-b8ae-4a63-92e1-6353f58618af",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/1cce7b0e-18ec-41fb-8257-221254f60aea"
+        },
+        {
+            "kecamatan": "mandalajati",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/b89c2c98-6b64-49e4-911a-1d51015be745",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/4a5a4a58-be6e-4a05-8021-6af458280fd2",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/c47c7964-4700-4ebd-ac14-19f18d1e3bcf"
+        },
+        {
+            "kecamatan": "panyileukan",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/4c15864d-9a72-4af5-8405-4c12d8170848",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/72fefa3a-6226-4bff-a56a-bd651d8779f1",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/c99bbd88-39d1-4a53-9071-fe7a6199438c"
+        },
+        {
+            "kecamatan": "rancasari",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/a77088b2-ca4a-4426-a6e9-234c019ebf3e",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/fb7cc05b-562f-40a4-9d47-827f3e360a3c",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/26516014-15d2-4cc5-907f-6cc35ceaf145"
+        },
+        {
+            "kecamatan": "regol",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/c2e5e613-ebb2-4850-9932-d6167b01be0d",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/11ec26ab-ae1e-44fd-ab34-fcb396f202a2",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/f071eddf-927a-4faa-9fc3-316855a6ab9a"
+        },
+        {
+            "kecamatan": "sukajadi",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/c2aadfde-53f8-411d-8c00-92a72c21c1a0",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/16d9bee8-6f5b-4676-bc35-cf253e27d79f",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/eacfb0d1-7e0b-4dee-93c9-015620232529"
+        },
+        {
+            "kecamatan": "sukasari",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/306763c5-5314-4c87-bfe6-54d6ebf6dda8",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/fd5955c9-610d-496f-9f4e-9da58debf99d",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/782d1115-ec0d-4e5f-ba44-8f5f20e56aae"
+        },
+        {
+            "kecamatan": "sumur-bandung",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/d8678356-c31f-4716-84c4-e2f4e16ae3a9",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/dba4e5fb-1c47-4b5a-b3fd-6be7d2b39bb8",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/84a0e9f4-b90d-4f11-8fba-0b1f52e38502"
+        },
+        {
+            "kecamatan": "ujungberung",
+            "sd": "http://data.bandung.go.id/beta/index.php/portal/api/62e96458-0fcf-4ff0-b3e6-0493ea40d7ca",
+            "smp": "http://data.bandung.go.id/beta/index.php/portal/api/e968a706-1fba-4495-afaa-038a8125643b",
+            "sma": "http://data.bandung.go.id/beta/index.php/portal/api/267bbd09-0ee1-4e2c-917f-ad65f2cbcfab"
+        }
+    ]
+}

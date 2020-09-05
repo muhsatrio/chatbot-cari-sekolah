@@ -1,0 +1,7 @@
+Flask
+flask-restful
+Sastrawi
+nltk
+requests
+flask-socketio
+flask-cors
