@@ -158,4 +158,6 @@ def post(teks):
         return response
 
 if __name__ == "__main__":
+    with open('temp.json', 'w') as output:
+        json.dump({"sekolah": "", "start": False}, output)
     socketIo.run(app, host='0.0.0.0', port=5000)
