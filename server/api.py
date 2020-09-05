@@ -30,7 +30,7 @@ def handleMessage(msg):
     if (answer['type'] == 'with-data'):
         for eachData in answer['data']:
             message += "\n-{} ({})".format(eachData['nama_sekolah'], eachData['status'])
-    send(message, broadcast=True)
+    send({"message": message, "type": answer['type']}, broadcast=True)
     return None
 
 def post(teks):
@@ -99,7 +99,7 @@ def post(teks):
                     json.dump(tempJson, output)
                 response = {
                     "response": "Baik, terimakasih sudah menggunakan BOT ini! :)",
-                    "type": "no-data"
+                    "type": "finish"
                 }
                 break
         else:
@@ -146,7 +146,7 @@ def post(teks):
                     json.dump(tempJson, output)
                 response = {
                     "response": "Baik, terimakasih sudah menggunakan BOT ini! :)",
-                    "type": "no-data"
+                    "type": "finish"
                 }
                 break
     if (response == -1):

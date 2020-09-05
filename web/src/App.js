@@ -18,16 +18,38 @@ function App() {
 
   const [message, setMessage] = useState("");
 
+  const [waktu, setWaktu] = useState(0);
+
   useEffect(() => {
     getMessages();
   }, [messages.length]);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setWaktu(waktu + 1);
+      if (waktu==31) {
+        setMessages([...messages, {
+          person: "BOT Sekolah Bandung",
+          message: "Karena kamu tidak merespon selama 30 detik, BOT mengakhir percakapan. :("
+        }])
+      }
+    }, 1000);
+               // clearing interval
+    return () => clearInterval(timer);
+  });
 
   const getMessages = () => {
     socket.on("message", msg => {
       setMessages([...messages, {
         person: "BOT Sekolah Bandung",
-        message: msg
+        message: msg.message
       }]);
+      if (msg.type === 'finish') {
+        setWaktu(32);
+      }
+      else {
+        setWaktu(0);
+      }
     });
   }
 
@@ -46,17 +68,25 @@ function App() {
     }
   }
 
+  // setInterval(() => {
+  //   setWaktu(waktu + 1);
+  //   console.log(waktu);
+  // }, 1000);
+
   return (
     <div className="App">
       <h3>BOT Sekolah Bandung</h3>
       <h5>Baru Pindah ke Bandung? Cari Sekolah Barumu dengan BOT ini :)</h5>
       <hr/>
       <Container>
-        <Form.Group controlId="formBasicEmail">
-          <Form.Label>Message</Form.Label>
-          <Form.Control onKeyPress={e => e.key === 'Enter' ? onClick() : null} value={message} type="text" name="message" placeholder="Type the message..." onChange={e => onChange(e)} />
-        </Form.Group>
-        <Button variant="primary" onClick={() => onClick()}>Send Message</Button>
+        {waktu<=30 ? (
+          <Form.Group controlId="formBasicEmail">
+            <Form.Label>Message</Form.Label>
+            <Form.Control onKeyPress={e => e.key === 'Enter' ? onClick() : null} value={message} type="text" name="message" placeholder="Type the message..." onChange={e => onChange(e)} />
+            <br/>
+            <Button variant="primary" onClick={() => onClick()}>Send Message</Button>
+          </Form.Group>
+        ) : null}
         <div className="dialogBox" style={{maxHeight: 'calc(100vh - 210px)', overflowY: 'auto'}}>
           {messages.length>0 ? messages.map((msg, i) => (
             <p style={{whiteSpace: "pre-line"}} key={i}><b>{msg.person}</b>:<br />{msg.message}</p>
